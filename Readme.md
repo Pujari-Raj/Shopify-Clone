@@ -2,7 +2,7 @@
 
 Project- Shopify Clone
 
-This is the clone of the [SHOPIFY](https://www.shopify.com/in)which was given as a task in ineuron's FSJSBootCamp Course.
+This is the clone of the [SHOPIFY](https://www.shopify.com/in) which was given as a task in ineuron's FSJSBootCamp Course.
 
 Technologies/ Tools Used:
 
@@ -16,7 +16,7 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="">
+<a href="https://pujari-shopify.netlify.app/">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
