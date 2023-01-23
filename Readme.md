@@ -16,7 +16,7 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="">
+<a href="https://pujari-shopify-clone.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
