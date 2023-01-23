@@ -1,4 +1,4 @@
-# Live Class Project17
+# Live Class Project-17
 
 Project- Shopify Clone
 
@@ -16,8 +16,8 @@ Technologies/ Tools Used:
 
 Click on the below given link to get the preview of the page
 
-<a href="https://pujari-shopify.netlify.app/">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<a href="">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 Learnings from this projects:-
